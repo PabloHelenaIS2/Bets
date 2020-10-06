@@ -1,0 +1,1417 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 15:58:20 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' has been recovered (tr. 478-488)
+
+[2020-04-23 15:58:21 #2 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 4540@DESKTOP-M1R57FE
+
+[2020-04-23 15:58:21 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 15:58:21 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 15:58:21 #5 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 15:58:21 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 15:58:21 #7 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 15:58:21 #8 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 15:58:21 #9 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 15:58:21 #10 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 15:58:21 #11 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 16:00:28 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 7388@DESKTOP-M1R57FE
+
+[2020-04-23 16:00:28 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 16:00:28 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 16:00:28 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 16:00:28 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 16:00:28 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 16:00:28 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 16:00:28 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 16:00:28 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 16:00:28 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 16:01:34 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' has been recovered (tr. 489-489)
+
+[2020-04-23 16:01:34 #2 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 5988@DESKTOP-M1R57FE
+
+[2020-04-23 16:01:34 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 16:01:34 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 16:01:34 #5 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 16:01:34 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 16:01:34 #7 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 16:01:34 #8 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 16:01:34 #9 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 16:01:34 #10 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 16:01:34 #11 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 16:03:09 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 9988@DESKTOP-M1R57FE
+
+[2020-04-23 16:03:09 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 16:03:09 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 16:03:09 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 16:03:09 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 16:03:09 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 16:03:09 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 16:03:09 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 16:03:09 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 16:03:09 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 16:04:56 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 11708@DESKTOP-M1R57FE
+
+[2020-04-23 16:04:57 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 16:04:57 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 16:04:57 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 16:04:57 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 16:04:57 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 16:04:57 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 16:04:57 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 16:04:57 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 16:04:57 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 18:15:30 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' has been recovered (tr. 490-497)
+
+[2020-04-23 18:15:30 #2 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 9260@DESKTOP-M1R57FE
+
+[2020-04-23 18:15:31 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 18:15:31 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 18:15:31 #5 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 18:15:31 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 18:15:31 #7 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 18:15:31 #8 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 18:15:31 #9 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 18:15:31 #10 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 18:15:31 #11 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 18:17:22 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 6464@DESKTOP-M1R57FE
+
+[2020-04-23 18:17:22 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 18:17:22 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 18:17:22 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 18:17:22 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 18:17:22 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 18:17:22 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 18:17:22 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 18:17:22 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 18:17:22 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 18:18:36 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 5800@DESKTOP-M1R57FE
+
+[2020-04-23 18:18:36 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 18:18:36 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 18:18:36 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 18:18:36 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 18:18:36 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 18:18:36 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 18:18:36 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 18:18:36 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 18:18:36 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 19:10:45 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 4020@DESKTOP-M1R57FE
+
+[2020-04-23 19:10:45 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 19:10:45 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 19:10:45 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 19:10:45 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 19:10:45 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 19:10:45 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 19:10:45 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 19:10:45 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 19:10:45 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 19:24:32 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 2432@DESKTOP-M1R57FE
+
+[2020-04-23 19:24:32 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 19:24:32 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 19:24:32 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 19:24:32 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 19:24:32 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 19:24:32 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 19:24:32 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 19:24:32 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 19:24:32 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 19:25:33 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 3440@DESKTOP-M1R57FE
+
+[2020-04-23 19:25:33 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 19:25:33 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 19:25:33 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 19:25:33 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 19:25:33 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 19:25:33 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 19:25:33 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 19:25:33 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 19:25:33 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 19:55:09 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 13288@DESKTOP-M1R57FE
+
+[2020-04-23 19:55:09 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 19:55:09 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 19:55:09 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 19:55:09 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 19:55:09 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 19:55:09 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 19:55:09 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 19:55:09 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 19:55:09 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 20:08:12 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 6768@DESKTOP-M1R57FE
+
+[2020-04-23 20:08:12 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 20:08:12 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 20:08:12 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 20:08:12 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 20:08:12 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 20:08:12 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 20:08:12 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 20:08:12 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 20:08:12 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 20:12:01 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 10096@DESKTOP-M1R57FE
+
+[2020-04-23 20:12:01 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 20:12:01 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 20:12:01 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 20:12:01 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 20:12:01 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 20:12:01 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 20:12:01 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 20:12:01 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 20:12:01 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 20:14:50 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 12500@DESKTOP-M1R57FE
+
+[2020-04-23 20:14:50 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 20:14:50 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 20:14:50 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 20:14:50 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 20:14:50 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 20:14:50 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 20:14:50 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 20:14:50 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 20:14:50 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 20:15:22 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 3880@DESKTOP-M1R57FE
+
+[2020-04-23 20:15:22 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 20:15:22 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 20:15:22 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 20:15:22 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 20:15:22 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 20:15:22 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 20:15:22 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 20:15:22 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 20:15:22 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 20:17:00 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 2924@DESKTOP-M1R57FE
+
+[2020-04-23 20:17:01 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 20:17:01 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 20:17:01 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 20:17:01 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 20:17:01 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 20:17:01 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 20:17:01 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 20:17:01 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 20:17:01 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 20:19:19 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 9656@DESKTOP-M1R57FE
+
+[2020-04-23 20:19:19 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 20:19:19 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 20:19:19 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 20:19:19 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 20:19:19 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 20:19:19 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 20:19:19 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 20:19:19 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 20:19:19 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 20:22:37 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 13880@DESKTOP-M1R57FE
+
+[2020-04-23 20:22:37 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 20:22:37 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 20:22:37 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 20:22:37 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 20:22:37 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 20:22:37 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 20:22:37 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 20:22:37 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 20:22:37 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 20:25:05 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 3244@DESKTOP-M1R57FE
+
+[2020-04-23 20:25:05 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 20:25:05 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 20:25:05 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 20:25:05 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 20:25:05 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 20:25:05 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 20:25:05 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 20:25:05 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 20:25:05 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 20:28:36 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 14172@DESKTOP-M1R57FE
+
+[2020-04-23 20:28:36 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 20:28:36 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 20:28:36 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 20:28:36 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 20:28:36 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 20:28:36 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 20:28:36 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 20:28:36 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 20:28:36 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 20:30:08 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 232@DESKTOP-M1R57FE
+
+[2020-04-23 20:30:08 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 20:30:08 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 20:30:08 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 20:30:08 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 20:30:08 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 20:30:08 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 20:30:08 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 20:30:08 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 20:30:08 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 20:32:20 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 8476@DESKTOP-M1R57FE
+
+[2020-04-23 20:32:20 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 20:32:20 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 20:32:20 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 20:32:20 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 20:32:20 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 20:32:20 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 20:32:20 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 20:32:20 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 20:32:20 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 20:33:15 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 10828@DESKTOP-M1R57FE
+
+[2020-04-23 20:33:15 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 20:33:15 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 20:33:15 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 20:33:15 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 20:33:15 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 20:33:15 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 20:33:15 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 20:33:15 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 20:33:15 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 20:35:01 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 3896@DESKTOP-M1R57FE
+
+[2020-04-23 20:35:01 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 20:35:01 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 20:35:01 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 20:35:01 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 20:35:01 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 20:35:01 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 20:35:01 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 20:35:01 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 20:35:01 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 20:41:49 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 2740@DESKTOP-M1R57FE
+
+[2020-04-23 20:41:49 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 20:41:49 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 20:41:49 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 20:41:49 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 20:41:49 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 20:41:49 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 20:41:49 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 20:41:49 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 20:41:49 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 20:42:30 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 5184@DESKTOP-M1R57FE
+
+[2020-04-23 20:42:30 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 20:42:30 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 20:42:30 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 20:42:30 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 20:42:30 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 20:42:30 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 20:42:30 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 20:42:30 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 20:42:30 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 20:43:50 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 9248@DESKTOP-M1R57FE
+
+[2020-04-23 20:43:50 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 20:43:50 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 20:43:50 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 20:43:50 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 20:43:50 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 20:43:50 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 20:43:50 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 20:43:50 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 20:43:50 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 20:52:40 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 14792@DESKTOP-M1R57FE
+
+[2020-04-23 20:52:40 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 20:52:40 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 20:52:40 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 20:52:40 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 20:52:40 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 20:52:40 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 20:52:40 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 20:52:40 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 20:52:40 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 20:57:54 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 6220@DESKTOP-M1R57FE
+
+[2020-04-23 20:57:54 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 20:57:54 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 20:57:54 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 20:57:54 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 20:57:54 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 20:57:54 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 20:57:54 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 20:57:54 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 20:57:54 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 21:04:25 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 6672@DESKTOP-M1R57FE
+
+[2020-04-23 21:04:25 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 21:04:25 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 21:04:25 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 21:04:25 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 21:04:25 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 21:04:25 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 21:04:25 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 21:04:25 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 21:04:25 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 21:06:06 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 9592@DESKTOP-M1R57FE
+
+[2020-04-23 21:06:06 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 21:06:06 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 21:06:06 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 21:06:06 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 21:06:06 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 21:06:06 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 21:06:06 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 21:06:06 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 21:06:06 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 21:07:22 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 7668@DESKTOP-M1R57FE
+
+[2020-04-23 21:07:22 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 21:07:22 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 21:07:22 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 21:07:22 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 21:07:22 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 21:07:22 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 21:07:22 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 21:07:22 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 21:07:22 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 22:07:36 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 15120@DESKTOP-M1R57FE
+
+[2020-04-23 22:07:36 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 22:07:36 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 22:07:36 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 22:07:36 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 22:07:36 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 22:07:36 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 22:07:36 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 22:07:36 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 22:07:36 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 22:39:09 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 11036@DESKTOP-M1R57FE
+
+[2020-04-23 22:39:09 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 22:39:09 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 22:39:09 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 22:39:09 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 22:39:09 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 22:39:09 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 22:39:09 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 22:39:09 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 22:39:09 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 22:39:45 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 8464@DESKTOP-M1R57FE
+
+[2020-04-23 22:39:45 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 22:39:45 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 22:39:45 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 22:39:45 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 22:39:45 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 22:39:45 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 22:39:45 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 22:39:45 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 22:39:45 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 22:43:06 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 15300@DESKTOP-M1R57FE
+
+[2020-04-23 22:43:06 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 22:43:06 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 22:43:06 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 22:43:06 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 22:43:06 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 22:43:06 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 22:43:06 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 22:43:06 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 22:43:06 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 23:07:53 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 12112@DESKTOP-M1R57FE
+
+[2020-04-23 23:07:53 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 23:07:53 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 23:07:53 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 23:07:53 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 23:07:53 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 23:07:53 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 23:07:53 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 23:07:53 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 23:07:53 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 23:25:09 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 3676@DESKTOP-M1R57FE
+
+[2020-04-23 23:25:10 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 23:25:10 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 23:25:10 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 23:25:10 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 23:25:10 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 23:25:10 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 23:25:10 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 23:25:10 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 23:25:10 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 23:26:00 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 9692@DESKTOP-M1R57FE
+
+[2020-04-23 23:26:00 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 23:26:00 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 23:26:00 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 23:26:00 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 23:26:00 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 23:26:00 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 23:26:00 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 23:26:00 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 23:26:00 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 23:27:47 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 11832@DESKTOP-M1R57FE
+
+[2020-04-23 23:27:47 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 23:27:47 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 23:27:47 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 23:27:47 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 23:27:47 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 23:27:47 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 23:27:47 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 23:27:47 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 23:27:47 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 23:30:30 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 716@DESKTOP-M1R57FE
+
+[2020-04-23 23:30:30 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 23:30:30 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 23:30:30 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 23:30:30 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 23:30:30 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 23:30:30 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 23:30:30 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 23:30:30 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 23:30:30 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 23:31:23 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 1272@DESKTOP-M1R57FE
+
+[2020-04-23 23:31:23 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 23:31:23 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 23:31:23 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 23:31:23 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 23:31:23 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 23:31:23 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 23:31:23 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 23:31:23 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 23:31:23 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-23 23:32:07 #1 store] 
+Database 'B:\Documentos\Eclipse uni\bets2020\src\main\resources\bets.temp' is opened by 9704@DESKTOP-M1R57FE
+
+[2020-04-23 23:32:07 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-23 23:32:07 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-23 23:32:07 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-23 23:32:07 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-23 23:32:07 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-23 23:32:07 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-23 23:32:07 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-23 23:32:07 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-23 23:32:07 #10 type] 
+Type domain.Movement is not enhanced.
+

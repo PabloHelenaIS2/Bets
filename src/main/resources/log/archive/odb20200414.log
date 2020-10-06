@@ -1,0 +1,355 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-14 11:40:20 #1 store] 
+Database 'C:\Users\Iraitz\eclipse-workspace\bets2020\src\main\resources\bets.temp' is opened by 13944@LAPTOP-TVD0RTF2
+
+[2020-04-14 11:40:21 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-14 11:40:21 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-14 11:40:21 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-14 11:40:21 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-14 11:40:21 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-14 11:40:21 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-14 11:40:21 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-14 11:40:21 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-14 11:40:21 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-14 17:28:15 #1 store] 
+Database 'C:\Users\Iraitz\eclipse-workspace\bets2020\src\main\resources\bets.temp' is opened by 9840@LAPTOP-TVD0RTF2
+
+[2020-04-14 17:28:15 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-14 17:28:15 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-14 17:28:15 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-14 17:28:15 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-14 17:28:15 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-14 17:28:15 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-14 17:28:15 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-14 17:28:15 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-14 17:28:15 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-14 17:33:12 #1 store] 
+Database 'C:\Users\Iraitz\eclipse-workspace\bets2020\src\main\resources\bets.temp' is opened by 9724@LAPTOP-TVD0RTF2
+
+[2020-04-14 17:33:12 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-14 17:33:12 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-14 17:33:12 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-14 17:33:12 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-14 17:33:12 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-14 17:33:12 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-14 17:33:12 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-14 17:33:12 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-14 17:33:12 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-14 17:37:29 #1 store] 
+Database 'C:\Users\Iraitz\eclipse-workspace\bets2020\src\main\resources\bets.temp' is opened by 1804@LAPTOP-TVD0RTF2
+
+[2020-04-14 17:37:29 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-14 17:37:29 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-14 17:37:29 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-14 17:37:29 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-14 17:37:29 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-14 17:37:29 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-14 17:37:29 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-14 17:37:29 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-14 17:37:29 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-14 17:44:38 #1 store] 
+Database 'C:\Users\Iraitz\eclipse-workspace\bets2020\src\main\resources\bets.temp' is opened by 10592@LAPTOP-TVD0RTF2
+
+[2020-04-14 17:44:38 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-14 17:44:38 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-14 17:44:38 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-14 17:44:38 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-14 17:44:38 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-14 17:44:38 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-14 17:44:38 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-14 17:44:38 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-14 17:44:38 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-14 17:46:31 #1 store] 
+Database 'C:\Users\Iraitz\eclipse-workspace\bets2020\src\main\resources\bets.temp' is opened by 11204@LAPTOP-TVD0RTF2
+
+[2020-04-14 17:46:31 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-14 17:46:31 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-14 17:46:31 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-14 17:46:31 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-14 17:46:31 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-14 17:46:31 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-14 17:46:31 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-14 17:46:31 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-14 17:46:31 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-14 18:42:20 #1 store] 
+Database 'C:\Users\Iraitz\eclipse-workspace\bets2020\src\main\resources\bets.temp' is opened by 12940@LAPTOP-TVD0RTF2
+
+[2020-04-14 18:42:20 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-14 18:42:20 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-14 18:42:20 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-14 18:42:20 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-14 18:42:20 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-14 18:42:20 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-14 18:42:20 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-14 18:42:20 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-14 18:42:20 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-14 22:57:57 #1 store] 
+Database 'C:\Users\Iraitz\eclipse-workspace\bets2020\src\main\resources\bets.temp' has been recovered (tr. 352-352)
+
+[2020-04-14 22:57:57 #2 store] 
+Database 'C:\Users\Iraitz\eclipse-workspace\bets2020\src\main\resources\bets.temp' is opened by 12652@LAPTOP-TVD0RTF2
+
+[2020-04-14 22:57:57 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-14 22:57:57 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-14 22:57:57 #5 type] 
+Type domain.User is not enhanced.
+
+[2020-04-14 22:57:57 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-14 22:57:57 #7 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-14 22:57:57 #8 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-14 22:57:57 #9 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-14 22:57:57 #10 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-14 22:57:57 #11 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-14 23:07:55 #1 store] 
+Database 'C:\Users\Iraitz\eclipse-workspace\bets2020\src\main\resources\bets.temp' is opened by 8264@LAPTOP-TVD0RTF2
+
+[2020-04-14 23:07:55 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-14 23:07:55 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-14 23:07:55 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-14 23:07:55 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-14 23:07:55 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-14 23:07:55 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-14 23:07:55 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-14 23:07:55 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-14 23:07:55 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-14 23:17:19 #1 store] 
+Database 'C:\Users\Iraitz\eclipse-workspace\bets2020\src\main\resources\bets.temp' is opened by 10324@LAPTOP-TVD0RTF2
+
+[2020-04-14 23:17:19 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-14 23:17:19 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-14 23:17:19 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-14 23:17:19 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-14 23:17:19 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-14 23:17:19 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-14 23:17:19 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-14 23:17:19 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-14 23:17:19 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-14 23:28:56 #1 store] 
+Database 'C:\Users\Iraitz\eclipse-workspace\bets2020\src\main\resources\bets.temp' is opened by 10828@LAPTOP-TVD0RTF2
+
+[2020-04-14 23:28:56 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-04-14 23:28:56 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-04-14 23:28:56 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-04-14 23:28:56 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-14 23:28:56 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-04-14 23:28:56 #7 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-04-14 23:28:56 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-04-14 23:28:56 #9 type] 
+Type domain.Wallet is not enhanced.
+
+[2020-04-14 23:28:56 #10 type] 
+Type domain.Movement is not enhanced.
+

@@ -1,0 +1,431 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 00:28:02 #1 store] 
+Database 'C:\Users\Iraitz\eclipse-workspace\bets2020\src\main\resources\bets.temp' is opened by 5800@LAPTOP-TVD0RTF2
+
+[2020-03-02 00:28:02 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 00:28:02 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 00:28:02 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-03-02 00:28:02 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 00:28:02 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 00:32:51 #1 store] 
+Database 'C:\Users\Iraitz\eclipse-workspace\bets2020\src\main\resources\bets.temp' is opened by 8720@LAPTOP-TVD0RTF2
+
+[2020-03-02 00:32:51 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 00:32:51 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 00:32:51 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-03-02 00:32:51 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 00:32:51 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+<<<<<<< HEAD
+[2020-03-02 15:48:13 #1 store] 
+Database '/home/hugo/eclipse-workspace/bets2020/src/main/resources/bets.temp' is opened by 15643@arch
+
+[2020-03-02 15:48:13 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 15:48:13 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 15:48:13 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-03-02 15:48:13 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 15:48:13 #6 type] 
+=======
+[2020-03-02 13:28:28 #1 store] 
+Database 'C:\Users\Iraitz\eclipse-workspace\bets2020\src\main\resources\bets.temp' is opened by 1592@LAPTOP-TVD0RTF2
+
+[2020-03-02 13:28:29 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 13:28:29 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 13:28:29 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-03-02 13:28:29 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 13:28:29 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 13:43:49 #1 store] 
+Database 'C:\Users\Iraitz\eclipse-workspace\bets2020\src\main\resources\bets.temp' is opened by 1456@LAPTOP-TVD0RTF2
+
+[2020-03-02 13:43:49 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 13:43:49 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 13:43:49 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-03-02 13:43:49 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 13:43:49 #6 type] 
+>>>>>>> 99c4d362882b9ee2259e146ef87e994db863aace
+Type domain.RegularUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 18:05:34 #1 store] 
+Database '/home/hugo/eclipse-workspace/bets2020/src/main/resources/bets.temp' is opened by 63559@arch
+
+[2020-03-02 18:05:34 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 18:05:34 #3 type.registry] 
+New type domain.Kuota
+
+[2020-03-02 18:05:34 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 18:05:34 #5 type] 
+Type domain.User is not enhanced.
+
+[2020-03-02 18:05:34 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 18:05:34 #7 type] 
+Type domain.RegularUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 18:08:59 #1 store] 
+Database '/home/hugo/eclipse-workspace/bets2020/src/main/resources/bets.temp' has been recovered (tr. 24-24)
+
+[2020-03-02 18:08:59 #2 store] 
+Database '/home/hugo/eclipse-workspace/bets2020/src/main/resources/bets.temp' is opened by 64176@arch
+
+[2020-03-02 18:08:59 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 18:08:59 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 18:08:59 #5 type] 
+Type domain.User is not enhanced.
+
+[2020-03-02 18:08:59 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 18:08:59 #7 type] 
+Type domain.RegularUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 18:38:43 #1 store] 
+Database '/home/hugo/eclipse-workspace/bets2020/src/main/resources/bets.temp' is opened by 70097@arch
+
+[2020-03-02 18:38:43 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 18:38:43 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 18:38:43 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-03-02 18:38:43 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 18:38:43 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 18:41:07 #1 store] 
+Database '/home/hugo/eclipse-workspace/bets2020/src/main/resources/bets.temp' is opened by 70437@arch
+
+[2020-03-02 18:41:07 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 18:41:07 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 18:41:07 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-03-02 18:41:07 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 18:41:07 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 18:50:22 #1 store] 
+Database '/home/hugo/eclipse-workspace/bets2020/src/main/resources/bets.temp' is opened by 71704@arch
+
+[2020-03-02 18:50:22 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 18:50:22 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 18:50:22 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-03-02 18:50:22 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 18:50:22 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 19:23:46 #1 store] 
+Database '/home/hugo/eclipse-workspace/bets2020/src/main/resources/bets.temp' is opened by 76210@arch
+
+[2020-03-02 19:23:46 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 19:23:46 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 19:23:46 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-03-02 19:23:46 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 19:23:46 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 21:08:28 #1 store] 
+Database 'C:\Users\Iraitz\git\bets2020\src\main\resources\bets.temp' has been recovered (tr. 25-25)
+
+[2020-03-02 21:08:28 #2 store] 
+Database 'C:\Users\Iraitz\git\bets2020\src\main\resources\bets.temp' is opened by 13484@LAPTOP-TVD0RTF2
+
+[2020-03-02 21:08:28 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 21:08:28 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 21:08:28 #5 type] 
+Type domain.User is not enhanced.
+
+[2020-03-02 21:08:28 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 21:08:28 #7 type] 
+Type domain.RegularUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 21:10:55 #1 store] 
+Database 'C:\Users\Iraitz\git\bets2020\src\main\resources\bets.temp' is opened by 3584@LAPTOP-TVD0RTF2
+
+[2020-03-02 21:10:55 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 21:10:55 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 21:10:55 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-03-02 21:10:55 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 21:10:55 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 21:15:53 #1 store] 
+Database 'C:\Users\Iraitz\git\bets2020\src\main\resources\bets.temp' is opened by 9300@LAPTOP-TVD0RTF2
+
+[2020-03-02 21:15:54 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 21:15:54 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 21:15:54 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-03-02 21:15:54 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 21:15:54 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 21:35:12 #1 store] 
+Database 'C:\Users\Iraitz\git\bets2020\src\main\resources\bets.temp' is opened by 8812@LAPTOP-TVD0RTF2
+
+[2020-03-02 21:35:12 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 21:35:12 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 21:35:12 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-03-02 21:35:12 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 21:35:12 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 21:44:06 #1 store] 
+Database 'C:\Users\Iraitz\git\bets2020\src\main\resources\bets.temp' is opened by 13224@LAPTOP-TVD0RTF2
+
+[2020-03-02 21:44:07 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 21:44:07 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 21:44:07 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-03-02 21:44:07 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 21:44:07 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 21:53:11 #1 store] 
+Database 'C:\Users\Iraitz\git\bets2020\src\main\resources\bets.temp' is opened by 4200@LAPTOP-TVD0RTF2
+
+[2020-03-02 21:53:11 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 21:53:11 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 21:53:11 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-03-02 21:53:11 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 21:53:11 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 22:11:42 #1 store] 
+Database 'C:\Users\Iraitz\git\bets2020\src\main\resources\bets.temp' has been recovered (tr. 27-27)
+
+[2020-03-02 22:11:43 #2 store] 
+Database 'C:\Users\Iraitz\git\bets2020\src\main\resources\bets.temp' is opened by 11220@LAPTOP-TVD0RTF2
+
+[2020-03-02 22:11:43 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 22:11:43 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 22:11:43 #5 type] 
+Type domain.User is not enhanced.
+
+[2020-03-02 22:11:43 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 22:11:43 #7 type] 
+Type domain.RegularUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 22:18:22 #1 store] 
+Database 'C:\Users\Iraitz\git\bets2020\src\main\resources\bets.temp' is opened by 2168@LAPTOP-TVD0RTF2
+
+[2020-03-02 22:18:22 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 22:18:22 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 22:18:22 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-03-02 22:18:22 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 22:18:22 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 22:19:25 #1 store] 
+Database 'C:\Users\Iraitz\git\bets2020\src\main\resources\bets.temp' is opened by 6252@LAPTOP-TVD0RTF2
+
+[2020-03-02 22:19:25 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 22:19:25 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 22:19:25 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-03-02 22:19:25 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 22:19:25 #6 type] 
+Type domain.RegularUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-02 22:27:10 #1 store] 
+Database 'C:\Users\Iraitz\git\bets2020\src\main\resources\bets.temp' is opened by 4768@LAPTOP-TVD0RTF2
+
+[2020-03-02 22:27:10 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-02 22:27:10 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-02 22:27:10 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-03-02 22:27:10 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-02 22:27:10 #6 type] 
+Type domain.RegularUser is not enhanced.
+
