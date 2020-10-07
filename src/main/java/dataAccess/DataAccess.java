@@ -43,7 +43,7 @@ public class DataAccess  {
 	protected static EntityManager  db;
 	protected static EntityManagerFactory emf;
 
-
+//prueba
 	ConfigXML c;
 
 	public DataAccess(boolean initializeMode)  {
